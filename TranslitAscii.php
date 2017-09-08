@@ -1,5 +1,7 @@
 <?php
 
+namespace jimmdigriz\transliteration;
+
 /**
  * Transliteration data to clean ASCII
  *

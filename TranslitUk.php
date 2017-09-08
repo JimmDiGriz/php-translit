@@ -1,5 +1,7 @@
 <?php
 
+namespace jimmdigriz\transliteration;
+
 /**
  * Transliteration data for Ukrainian (UK)
  *
